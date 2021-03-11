@@ -4,7 +4,7 @@ I'm a Student that follows HBO IT study in The Netherlands.
 I work parttime as a IT repair/management guy.
 I got some serious hate against Cisco, Programming, Microsoft, paper straws and Python like seriously why "and" and not "&&".
 
-- 🔭 I’m currently working on [LiteXpansion]: https://github.com/J3fftw1/LiteXpansion
+- 🔭 I’m currently working on [LiteXpansion](https://github.com/J3fftw1/LiteXpansion)
 - 🌱 I’m currently learning Java, PHP, Python, Cisco and many other networking tools.
 - 🤔 I’m looking for help with finding a meaning in life.
 - 💬 Ask me about anything, I mean anything you want just ask me about it
