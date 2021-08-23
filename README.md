@@ -15,3 +15,9 @@ I got some serious hate against Cisco, Programming, Microsoft, paper straws and 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J3fftw1&show_icons=true" alt="Profile Stats">
 </p>
+
+## Best domains I own!
+- https://pandas-are-the.best/
+- https://pandas-are-number.one/
+- https://youwontpassipv6.com/
+- https://youwontpassipv4.com/
