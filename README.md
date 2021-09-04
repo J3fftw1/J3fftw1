@@ -17,6 +17,7 @@ I got some serious hate against Cisco, Programming, Microsoft, paper straws and 
 </p>
 
 ## Best domains I own!
+- https://i-need.beer/
 - https://pandas-are-the.best/
 - https://pandas-are-number.one/
 - https://youwontpassipv6.com/
