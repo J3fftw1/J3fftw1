@@ -1,6 +1,5 @@
 ### Hi there, I'm Panda - aka J3fftw1 👋
 
-I work parttime as a IT repair/management guy.
 I work full time contractor for the Dutch government, where I troubleshoot issues for government employees that they have with their online workspaces.
 
 - 🌱 I’m currently learning Java and JS.
@@ -15,7 +14,5 @@ I work full time contractor for the Dutch government, where I troubleshoot issue
 ## Best domains I own!
 - https://i-need.beer/
 - https://please.com.vc/
-- https://pandas-are-the.best/
-- https://pandas-are-number.one/
 - https://youwontpassipv6.com/
 - https://youwontpassipv4.com/
