@@ -1,10 +1,10 @@
 ### Hi there, I'm Panda - aka J3fftw1 👋
 
-I work full time contractor for the Dutch government, where I troubleshoot issues for government employees that they have with their online workspaces.
+I work as full time contractor for Tennet.
 
 - 🌱 I’m currently learning Java and JS.
 - 💬 Ask me about anything, I mean anything you want just ask me about it
-- 📫 You can reach me on Discord, Panda.com#0806
+- 📫 You can reach me on Discord, j3fftw
 - ⚡ Fun fact: Did you know Panda.com is worth 13 million euro
 
 <p align="center">
